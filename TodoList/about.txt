@@ -1,0 +1,3 @@
+todo list ...using vanila js
+
+functionality= adding ,delete ,editing a task

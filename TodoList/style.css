@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    
+}
+.inp{
+ height: 20px;
+border: transparent ;
+border: 2px solid red;
+}
